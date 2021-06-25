@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 4.5.2
+
+24th June 2021
+
+### Added
+- Added further description to SocialImage field on SeoPageExtension and SeoSiteConfigExtension
+- Added validation for maximum file size for SocialImage field
+- Added custom config variables in yaml file for SocialImage class
+
+## Version 4.5.1
+
+24th September 2020
+
+### Changed
+- Updated path for extra requirements in cms.yml
+
 ## Version 1.1.0
 
 13th March 2017
